@@ -1,0 +1,9 @@
+<rom>
+	<romid>
+		<xmlid>evo5base</xmlid>
+		<flashmethod>mitsukernel</flashmethod>			
+		<internalidaddress>1FEFA</internalidaddress>
+		<internalidstring>------</internalidstring>
+		<memmodel>H8539F</memmodel>
+	</romid>
+</rom>	
