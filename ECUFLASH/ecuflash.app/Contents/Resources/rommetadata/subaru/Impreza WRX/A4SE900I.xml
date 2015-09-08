@@ -1,0 +1,17 @@
+<rom>
+  <romid>
+    <xmlid>A4SE900I</xmlid>
+    <internalidaddress>200</internalidaddress>
+    <internalidstring>A4SE900I</internalidstring>
+    <ecuid>1B54500505</ecuid>
+    <year>01/02</year>
+    <market>ADM</market>
+    <make>Subaru</make>
+    <model>Impreza</model>
+    <submodel>WRX</submodel>
+    <transmission>MT/AT</transmission>
+    <memmodel>68HC16Y5</memmodel>
+    <flashmethod>wrx02</flashmethod>
+  </romid>
+  <include>A4SE900D</include>
+</rom>

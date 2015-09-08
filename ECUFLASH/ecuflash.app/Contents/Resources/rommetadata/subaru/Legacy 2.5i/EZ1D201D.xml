@@ -1,0 +1,18 @@
+<rom>
+	<romid>
+		<xmlid>EZ1D201D</xmlid>
+		<internalidaddress>2004</internalidaddress>
+		<internalidstring>EZ1D201D</internalidstring>
+		<make>Subaru</make>
+		<market>USDM</market>
+		<model>Legacy</model>
+		<submodel>2.5i</submodel>
+		<transmission>AT</transmission>
+		<year>2008</year>
+		<flashmethod>subarucan</flashmethod>
+		<checksummodule>subarudbw</checksummodule>
+		<memmodel>SH7058</memmodel>
+	</romid>
+
+
+</rom>
